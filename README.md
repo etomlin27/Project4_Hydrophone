@@ -20,31 +20,18 @@ Equation (1):
 *Figure 1a: Oregon Shelf Rainy PSD Profile.*
 
 ![alt text](https://github.com/etomlin27/Project4_Hydrophone/blob/master/OSRain.png)
-![alt text](https://github.com/etomlin27/Project4_Hydrophone/blob/master/ShelfStrorm.png)
-
-*Figure 4a: Oregon Shelf Stormy PSD Profile.*
-
-![alt text](https://github.com/etomlin27/Project4_Hydrophone/blob/master/OSStorm.png)
-
-*Figure 4b: Offshore Stormy PSD Profile.*
 
 *Figure 1b: Offshore Rainy PSD Profile.*
 
 Examining the effect of rain on the PSD graph yields smoothing of the PSD value to around 55.
-
 
 ![alt text](https://github.com/etomlin27/Project4_Hydrophone/blob/master/ShelfWind.png)
 
 *Figure 2a: Oregon Shelf Windy PSD Profile.*
 
 ![alt text](https://github.com/etomlin27/Project4_Hydrophone/blob/master/OSWInd.png)
-![alt text](https://github.com/etomlin27/Project4_Hydrophone/blob/master/ShelfStrorm.png)
 
-*Figure 4a: Oregon Shelf Stormy PSD Profile.*
-
-![alt text](https://github.com/etomlin27/Project4_Hydrophone/blob/master/OSStorm.png)
-
-*Figure 4b: Offshore Stormy PSD Profile.*
+*Figure 2b: Offshore Windy PSD Profile.*
 
 Examining the effect of wind on the PSD graph yields a decaying waveform with PSD values averaging around 50, but with wide band spikes at cartain frequencies.
 
