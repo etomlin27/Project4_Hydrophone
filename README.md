@@ -71,6 +71,7 @@ In understanding frequency analysis of ocean noise to gain proficiency in verify
 
 *Figure 7: Geologic Frequency Spectrogram.*
 
+Consistant with the Wentz curve, we can see that the eartquake activity is very low frequency, in the <120 Hz range, Airguns are in the middle with a pulsing profile, and Mammal has the widest spread.
 
 ## Conclusion:
 
