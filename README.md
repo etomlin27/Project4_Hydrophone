@@ -20,6 +20,13 @@ Equation (1):
 *Figure 1a: Oregon Shelf Rainy PSD Profile.*
 
 ![alt text](https://github.com/etomlin27/Project4_Hydrophone/blob/master/OSRain.png)
+![alt text](https://github.com/etomlin27/Project4_Hydrophone/blob/master/ShelfStrorm.png)
+
+*Figure 4a: Oregon Shelf Stormy PSD Profile.*
+
+![alt text](https://github.com/etomlin27/Project4_Hydrophone/blob/master/OSStorm.png)
+
+*Figure 4b: Offshore Stormy PSD Profile.*
 
 *Figure 1b: Offshore Rainy PSD Profile.*
 
@@ -31,8 +38,13 @@ Examining the effect of rain on the PSD graph yields smoothing of the PSD value 
 *Figure 2a: Oregon Shelf Windy PSD Profile.*
 
 ![alt text](https://github.com/etomlin27/Project4_Hydrophone/blob/master/OSWInd.png)
+![alt text](https://github.com/etomlin27/Project4_Hydrophone/blob/master/ShelfStrorm.png)
 
-*Figure 2b: Offshore Windy PSD Profile.*
+*Figure 4a: Oregon Shelf Stormy PSD Profile.*
+
+![alt text](https://github.com/etomlin27/Project4_Hydrophone/blob/master/OSStorm.png)
+
+*Figure 4b: Offshore Stormy PSD Profile.*
 
 Examining the effect of wind on the PSD graph yields a decaying waveform with PSD values averaging around 50, but with wide band spikes at cartain frequencies.
 
@@ -56,9 +68,26 @@ Using the calm days as a baseline, it can be seen that a non-weather influenced 
 
 Stormy conditions produce the most dramatic change in the PSD as it has the smoothing effect on the curve from the rain and the broadining of the band from the wind. 
 
+### Part 2
+
+In understanding frequency analysis of ocean noise to gain proficiency in verifying the source of signals, it is useful to compare the spectrograms of the frequency profiles for volcanic activity (figure 5), airgun noise (figure 6), and earthquakes (figure 7).
+
+![alt text](https://github.com/etomlin27/Project4_Hydrophone/blob/master/ShelfStrorm.png)
+
+*Figure 5: Volcanic Frequency Spectrogram.*
+
+![alt text](https://github.com/etomlin27/Project4_Hydrophone/blob/master/OSStorm.png)
+
+*Figure 6: Airgun Frequency Spectrogram.*
+
+![alt text](https://github.com/etomlin27/Project4_Hydrophone/blob/master/OSStorm.png)
+
+*Figure 7: Earthquake Frequency Spectrogram.*
+
+
 ## Conclusion:
 
-Plate movements cause earthquakes as they seperate (diverge), collide and subduct (converge), and slide transversally.
+It is important to have multiple sites of data to determine the effect of weather on the PSD profile to elimitna possible local factors that may interfere with results. Proximity to shipping lanes, bouys, general water depth, and marine mammal communities may all effect the results. By comparing two different sites, conclusions can be drawn by comparing the change at each for the different weather conditions. Rain has the most noticeable effet on the PSD whith its flattening of the curve.
 
 ## References:
 
