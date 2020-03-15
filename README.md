@@ -6,39 +6,52 @@ README URL: https://github.com/etomlin27/Project4_Hydrophone/blob/master/README.
 
 ## Problem Statement:
 
-To understand how plate tectonics produce earthquakes, it is useful to study the intensity of earthquakes in magnitude on the Richter scale and plot them on a map using latitude and longitudinal coordinates. By examining the eearthquakes on plate boundaries, comparisons can be made with the known type of boundary movement; convergent, divergent, or transverse.
+To understand the effect of various weather and natural phenomenon on ambient noise in the ocean envronment, it is necessary to be able to analize audio signals taken underwater. These signals area available via the Ocean Observatories Project' publically available hydrophone arrays attached to their ocean observitory platforms. Using a power spectral density versus frequency chart, the effects of weather can be visualized. Additionally, frequency spectrograms can allow a visual comparison between other sources of background noise including underwater volcanic activity, marine mammal vocalizations, and geologic activity (earthquakes.)
 
 ## Backround/ Solution/ Results:
 
-Graphical analysis of the earthquake magnitude over time shows how quakes of varying magnitudes occur throughout the year. Figure 1 shows earthquake data over the last decade.
+Graphical analysis of two observatories taken at known times of weather patterns of interest can allow some conclusions to be drawn. Figures 1a-4b show the PSD versus frequency graphs for each of the two observitory hydrophone arrays during the chosen time period. PSD was caculated using formula (1).
 
 ![alt text](https://github.com/etomlin27/Plate_Tectonics_Project3/blob/master/Magtime.png)
 
-*Figure 1: Earthquakes by magnitude since 2010.*
-
-Looking at earthquakes since 2010 on a map reveals the boundaries of the tectonic plates in the area, namely the Juan de Fuca plate, due to the heightened activity along the boundaries. These occur just off the coast of the Pacific Northwest as seen in figure 2. The maximum magnitude earthquake was  6.8  for the area and time since 2010. The minimum magnitude earthquake was  2.5  for the area and time since 2010. The average magnitude of all earthquakes is  3.24  for the area and time since 2010.
+*Figure 1a: Earthquakes by magnitude since 2010.*
 
 ![alt text](https://github.com/etomlin27/Plate_Tectonics_Project3/blob/master/Bigplot.png)
 
-*Figure 2: Geographic locations of Earthquakes since 2010.*
+*Figure 1b: Geographic locations of Earthquakes since 2010.*
 
-Further narrowing the timeline, looking at April of 2015 other plate tectonic effects on earthquakes can be observed. In April 2015 there was an undersea volcanic eruption. As seen in figure 3, there was several larger magnitude earthquakes occuring in this shorter time frame.
+Examining the effect of rain on the PSD graph yields smoothing of the PSD value to around 55.
 
-![alt text](https://github.com/etomlin27/Plate_Tectonics_Project3/blob/master/Aprplot.png)
 
-*Figure 3: Earhquakes during the Undersea Eruption of April 2015.*
+![alt text](https://github.com/etomlin27/Plate_Tectonics_Project3/blob/master/Magtime.png)
 
-Isolating the geographic region examined to compare the differnces in quakes produced by divergent or transformational plate boundaries. Figures 4 and 5 show divergent and transformational earthquakes, respectively. The divergent fault line appears to produce more earthquakes but at a lower magnitude. The divergent faultline statistics are: maximum magnitude earthquake was 6.6, minimum magnitude earthquake was  2.5, average magnitude of all earthquakes is  2.97.
+*Figure 2a: Earthquakes by magnitude since 2010.*
 
-![alt text](https://github.com/etomlin27/Plate_Tectonics_Project3/blob/master/Divplot.png)
+![alt text](https://github.com/etomlin27/Plate_Tectonics_Project3/blob/master/Bigplot.png)
 
-*Figure 4: Earthquakes along the Divergent Plate Boundary.*
+*Figure 2b: Geographic locations of Earthquakes since 2010.*
 
-![alt text](https://github.com/etomlin27/Plate_Tectonics_Project3/blob/master/Transplot.png)
+Examining the effect of wind on the PSD graph yields a decaying waveform with PSD values averaging around 50, but with wide band spikes at cartain frequencies.
 
-*Figure 5: Earthquakes along the Transverse Plate Boundary.*
+![alt text](https://github.com/etomlin27/Plate_Tectonics_Project3/blob/master/Magtime.png)
 
-For the transverse boundary: the maximum magnitude earthquake was  5.6  for the area and time since 2010. The minimum magnitude earthquake was  2.5  for the area and time since 2010. The average magnitude of all earthquakes is  3.41  for the area and time since 2010.
+*Figure 3a: Earthquakes by magnitude since 2010.*
+
+![alt text](https://github.com/etomlin27/Plate_Tectonics_Project3/blob/master/Bigplot.png)
+
+*Figure 3b: Geographic locations of Earthquakes since 2010.*
+
+Using the calm days as a baseline, it can be seen that a non-weather influenced PSD graph is similar to the windy decaying waveform, but with less broad range of PSD values across the frequency spectrum.
+
+![alt text](https://github.com/etomlin27/Plate_Tectonics_Project3/blob/master/Magtime.png)
+
+*Figure 4a: Earthquakes by magnitude since 2010.*
+
+![alt text](https://github.com/etomlin27/Plate_Tectonics_Project3/blob/master/Bigplot.png)
+
+*Figure 4b: Geographic locations of Earthquakes since 2010.*
+
+Stormy conditions produce the most dramatic change in the PSD as it has the smoothing effect on the curve from the rain and the broadining of the band from the wind. 
 
 ## Conclusion:
 
@@ -50,5 +63,3 @@ https://ooinet.oceanobservatories.org/
 https://www.noaa.gov/
 https://water.usgs.gov/edu/activity-howmuchrain-metric.html
 https://stackoverflow.com/
-https://earthquake.usgs.gov/earthquakes/search/
-https://Openstreetmap.org/
