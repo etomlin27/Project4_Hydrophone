@@ -1,8 +1,7 @@
 # Project4_Hydrophone
 Project 4 For BME 450 Winter 2020
 
-Code URL: https://github.com/etomlin27/Plate_Tectonics_Project3/blob/master/Tomlin_Project_III_Plate_Tectonics.ipynb
-
+Code URL: https://github.com/etomlin27/Project4_Hydrophone/blob/master/Tomlin_Project4_Hydrophone.ipynb
 README URL: https://github.com/etomlin27/Project4_Hydrophone/blob/master/README.md
 
 ## Problem Statement:
