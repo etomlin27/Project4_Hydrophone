@@ -30,7 +30,7 @@ Examining the effect of rain on the PSD graph yields smoothing of the PSD value 
 
 *Figure 2a: Oregon Shelf Windy PSD Profile.*
 
-![alt text](https://github.com/etomlin27/Project4_Hydrophone/blob/master/OSWind.png)
+![alt text](https://github.com/etomlin27/Project4_Hydrophone/blob/master/OSWInd.png)
 
 *Figure 2b: Offshore Windy PSD Profile.*
 
