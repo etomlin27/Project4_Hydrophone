@@ -13,7 +13,7 @@ To understand the effect of various weather and natural phenomenon on ambient no
 Graphical analysis of two observatories taken at known times of weather patterns of interest can allow some conclusions to be drawn. Figures 1a-4b show the PSD versus frequency graphs for each of the two observitory hydrophone arrays during the chosen time period. PSD was caculated using formula (1).
 
 Equation (1):
-![alt text](https://github.com/etomlin27/Project4_Hydrophone/blob/master/PSDEquation.png)
+![alt text](https://github.com/etomlin27/Project4_Hydrophone/blob/master/PSDEquation.JPG)
 
 ![alt text](https://github.com/etomlin27/Project4_Hydrophone/blob/master/ShelfRain.png)
 
