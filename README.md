@@ -6,7 +6,7 @@ README URL: https://github.com/etomlin27/Project4_Hydrophone/blob/master/README.
 
 ## Problem Statement:
 
-To understand the effect of various weather and natural phenomenon on ambient noise in the ocean envronment, it is necessary to be able to analize audio signals taken underwater. These signals area available via the Ocean Observatories Project' publically available hydrophone arrays attached to their ocean observitory platforms. Using a power spectral density versus frequency chart, the effects of weather can be visualized. Additionally, frequency spectrograms can allow a visual comparison between other sources of background noise including underwater volcanic activity, marine mammal vocalizations, and geologic activity (earthquakes.)
+To understand the effect of various weather and natural phenomenon on ambient noise in the ocean envronment, it is necessary to be able to analize audio signals taken underwater. These signals area available via the Ocean Observatories Project' publically available hydrophone arrays attached to their ocean observitory platforms. Using a power spectral density versus frequency chart, the effects of weather can be visualized. Additionally, frequency spectrograms can allow a visual comparison between other sources of background noise including underwater geological activity including volcanic activity or earthquakes, marine mammal vocalizations, and airgun streamers.
 
 ## Backround/ Solution/ Results:
 
@@ -57,19 +57,19 @@ Stormy conditions produce the most dramatic change in the PSD as it has the smoo
 
 ### Part 2
 
-In understanding frequency analysis of ocean noise to gain proficiency in verifying the source of signals, it is useful to compare the spectrograms of the frequency profiles for volcanic activity (figure 5), airgun noise (figure 6), and earthquakes (figure 7).
+In understanding frequency analysis of ocean noise to gain proficiency in verifying the source of signals, it is useful to compare the spectrograms of the frequency profiles for mammal activity (figure 5), airgun noise (figure 6), and earthquakes (figure 7).
 
-![alt text](https://github.com/etomlin27/Project4_Hydrophone/blob/master/ShelfStrorm.png)
+![alt text](https://github.com/etomlin27/Project4_Hydrophone/blob/master/Mammal.png)
 
-*Figure 5: Volcanic Frequency Spectrogram.*
+*Figure 5: Marine Mammal Frequency Spectrogram.*
 
-![alt text](https://github.com/etomlin27/Project4_Hydrophone/blob/master/OSStorm.png)
+![alt text](https://github.com/etomlin27/Project4_Hydrophone/blob/master/Airgun.png)
 
 *Figure 6: Airgun Frequency Spectrogram.*
 
-![alt text](https://github.com/etomlin27/Project4_Hydrophone/blob/master/OSStorm.png)
+![alt text](https://github.com/etomlin27/Project4_Hydrophone/blob/master/Quake.png)
 
-*Figure 7: Earthquake Frequency Spectrogram.*
+*Figure 7: Geologic Frequency Spectrogram.*
 
 
 ## Conclusion:
