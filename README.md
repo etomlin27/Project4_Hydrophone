@@ -46,7 +46,7 @@ Examining the effect of wind on the PSD graph yields a decaying waveform with PS
 
 Using the calm days as a baseline, it can be seen that a non-weather influenced PSD graph is similar to the windy decaying waveform, but with less broad range of PSD values across the frequency spectrum.
 
-![alt text](https://github.com/etomlin27/Project4_Hydrophone/blob/master/ShelfStorm.png)
+![alt text](https://github.com/etomlin27/Project4_Hydrophone/blob/master/ShelfStrorm.png)
 
 *Figure 4a: Oregon Shelf Stormy PSD Profile.*
 
